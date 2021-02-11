@@ -1,0 +1,5 @@
+#!/bin/sh
+zenity --info --text="Peek a boh!, Your Fucked!" --title="You're Fucked!"
+zenity --info --text="No Seriously!!" --title="You're Fucked!"
+zenity --info --text="Last Warning!" --title="You're Fucked!"
+zenity --info --text="Virus detected!  deleting /usr/bin" --title="You're Fucked!"
